@@ -1,0 +1,9 @@
+tqdm
+pandas
+networkx
+matplotlib
+numpy
+plotnine
+pyscipopt
+sympy
+scipy
